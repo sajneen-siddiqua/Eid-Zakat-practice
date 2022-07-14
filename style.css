@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header{
+    background-image: url(images/hero-cover.jpg);
+    background-size: cover;
+    height: 80%;
+}
+.banner{
+    text-align: center;
+    padding-top: 150px;
+    font-size: large;
+    font-weight: 700;
+
+}
+.btn{
+    padding: 10px 20px;
+    background-color: orangered;
+   color: white;
+   border-radius: 5px;
+}
